@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Form from "./form";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faPhoneVolume,faShoppingBasket,faDollarSign} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class Main extends Component {
   render() {
@@ -20,18 +21,18 @@ class Main extends Component {
         <div>
              <div className="services">
                 <div className="service-one">
-                <p className="service-icon"><FontAwesomeIcon icon={['fab', 'apple']} /></p>
+                <p className="service-icon"><FontAwesomeIcon icon={faPhoneVolume} /></p>
                 <p className="service-title">Связь</p>
                 <p>Просто наберите нас по телефону. Мы находимся в г.Бровары </p>
                 </div>
                 <div className="service-two">
-                <p className="service-icon"><i className="fas fa-crop"></i></p>
+                <p className="service-icon"><FontAwesomeIcon icon={faShoppingBasket} /></p>
                 <p className="service-title">Заказ</p>
                 <p>Для заказа оговорите количество и оплатите 100% или 50%, а 50% наложкой. Сагласуйте доставку.</p>
 
                 </div>
                 <div className="service-three">
-                <p className="service-icon"><i className="fas fa-code"></i></p>
+                <p className="service-icon"><FontAwesomeIcon icon={faDollarSign} /></p>
                 <p className="service-title">Цена</p>
                 <p>Розница 35грн<br/>Оптом 25</p>
 
