@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/maski/static/css/main.05a24dff.chunk.css",
-    "main.js": "/maski/static/js/main.bccb4a58.chunk.js",
-    "main.js.map": "/maski/static/js/main.bccb4a58.chunk.js.map",
+    "main.css": "/maski/static/css/main.0f871e43.chunk.css",
+    "main.js": "/maski/static/js/main.a2c3bc03.chunk.js",
+    "main.js.map": "/maski/static/js/main.a2c3bc03.chunk.js.map",
     "runtime-main.js": "/maski/static/js/runtime-main.9f23d203.js",
     "runtime-main.js.map": "/maski/static/js/runtime-main.9f23d203.js.map",
-    "static/js/2.15f1aaab.chunk.js": "/maski/static/js/2.15f1aaab.chunk.js",
-    "static/js/2.15f1aaab.chunk.js.map": "/maski/static/js/2.15f1aaab.chunk.js.map",
+    "static/js/2.2ba44c26.chunk.js": "/maski/static/js/2.2ba44c26.chunk.js",
+    "static/js/2.2ba44c26.chunk.js.map": "/maski/static/js/2.2ba44c26.chunk.js.map",
     "index.html": "/maski/index.html",
-    "precache-manifest.3fa5fbb94e47351433e75a39c5ef1ec6.js": "/maski/precache-manifest.3fa5fbb94e47351433e75a39c5ef1ec6.js",
+    "precache-manifest.9572c3637de802df885d7922be9a595c.js": "/maski/precache-manifest.9572c3637de802df885d7922be9a595c.js",
     "service-worker.js": "/maski/service-worker.js",
-    "static/css/main.05a24dff.chunk.css.map": "/maski/static/css/main.05a24dff.chunk.css.map",
-    "static/js/2.15f1aaab.chunk.js.LICENSE.txt": "/maski/static/js/2.15f1aaab.chunk.js.LICENSE.txt",
+    "static/css/main.0f871e43.chunk.css.map": "/maski/static/css/main.0f871e43.chunk.css.map",
+    "static/js/2.2ba44c26.chunk.js.LICENSE.txt": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt",
     "static/media/index.css": "/maski/static/media/4.e8cbec71.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f23d203.js",
-    "static/js/2.15f1aaab.chunk.js",
-    "static/css/main.05a24dff.chunk.css",
-    "static/js/main.bccb4a58.chunk.js"
+    "static/js/2.2ba44c26.chunk.js",
+    "static/css/main.0f871e43.chunk.css",
+    "static/js/main.a2c3bc03.chunk.js"
   ]
 }

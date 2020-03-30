@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab8e0a6d8724dc6c9da863e2e2208b49",
+    "revision": "ee35c20e5425e363100016c064c454d3",
     "url": "/maski/index.html"
   },
   {
-    "revision": "557cb12be2ad61201ba9",
-    "url": "/maski/static/css/main.05a24dff.chunk.css"
+    "revision": "926cec4960bbc4448bcc",
+    "url": "/maski/static/css/main.0f871e43.chunk.css"
   },
   {
-    "revision": "a2ab97df9a64c0c837ad",
-    "url": "/maski/static/js/2.15f1aaab.chunk.js"
+    "revision": "a58e7bde935cab7ea293",
+    "url": "/maski/static/js/2.2ba44c26.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/maski/static/js/2.15f1aaab.chunk.js.LICENSE.txt"
+    "url": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "557cb12be2ad61201ba9",
-    "url": "/maski/static/js/main.bccb4a58.chunk.js"
+    "revision": "926cec4960bbc4448bcc",
+    "url": "/maski/static/js/main.a2c3bc03.chunk.js"
   },
   {
     "revision": "769b8a3c410d0aeb717f",
