@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Form from "./form";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 class Main extends Component {
   render() {
@@ -19,7 +20,7 @@ class Main extends Component {
         <div>
              <div className="services">
                 <div className="service-one">
-                <p className="service-icon"><i className="far fa-calendar-alt"></i></p>
+                <p className="service-icon"><FontAwesomeIcon icon={['fab', 'apple']} /></p>
                 <p className="service-title">Связь</p>
                 <p>Просто наберите нас по телефону. Мы находимся в г.Бровары </p>
                 </div>
