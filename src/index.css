@@ -80,9 +80,8 @@ nav ul li a{
 
 header {
   height: 700px;
-  background: url("./images/4.jpg") ;
+  background: url("./images/4.jpg") center;
   position: relative;
-  background-repeat: no-repeat;
   background-size: 100% 100%;
 
 }
