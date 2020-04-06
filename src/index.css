@@ -224,17 +224,17 @@ main section div p {
 }
 
 .gallery div.gallery-item-two {
-  background: url("./images/2.jpg");
+  background: url("./images/olx1.png");
   background-size: 160%;
 }
 .gallery div.gallery-item-three {
-  background: url("./images/3.jpg");
+  background: url("./images/olx1.png");
   background-size: 160%;
 }
 
 .gallery div.gallery-item-four {
-  background: url("./images/1.jpg");
-  background-size: 160%;
+  background: url("./images/olx3.jpg");
+  background-size: 100%;
 }
 .gallery div.gallery-item-five {
   background: url("./images/2.jpg");
@@ -244,11 +244,14 @@ main section div p {
   background: url("./images/3.jpg");
   background-size: 160%;
 }
-.gallery div.gallery-item-one:hover, .gallery div.gallery-item-two:hover, .gallery div.gallery-item-three:hover, .gallery div.gallery-item-four:hover, .gallery div.gallery-item-five:hover, .gallery div.gallery-item-six:hover{
+.gallery div.gallery-item-one:hover, .gallery div.gallery-item-two:hover, .gallery div.gallery-item-three:hover, .gallery div.gallery-item-five:hover, .gallery div.gallery-item-six:hover{
   background-size: 100%;
   filter: grayscale(0%);
 }
-
+.gallery div.gallery-item-four:hover{
+  background-size: 50%;
+  filter: grayscale(0%);
+}
  /*------------- SERVICES -------------------*/
 
 div.services {

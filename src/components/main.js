@@ -28,13 +28,13 @@ class Main extends Component {
                 <div className="service-two">
                 <p className="service-icon"><FontAwesomeIcon icon={faShoppingBasket} /></p>
                 <p className="service-title">Заказ</p>
-                <p>Для заказа оговорите количество и оплатите 100% или 50%, а 50% наложкой. Сагласуйте доставку.</p>
+                <p>Для заказа оговорите количество и оплатите 100% или 50%, а 50% наложкой. Сагласуйте доставку. Заброть можно самовывозом.</p>
 
                 </div>
                 <div className="service-three">
                 <p className="service-icon"><FontAwesomeIcon icon={faDollarSign} /></p>
                 <p className="service-title">Цена</p>
-                <p>Розница 35грн<br/>Оптом 25</p>
+                <p>Розница 25грн<br/>Оптом 20</p>
 
           </div>
         </div>
