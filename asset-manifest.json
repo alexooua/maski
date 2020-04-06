@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maski/static/css/main.ba1db0a3.chunk.css",
-    "main.js": "/maski/static/js/main.a2c3bc03.chunk.js",
-    "main.js.map": "/maski/static/js/main.a2c3bc03.chunk.js.map",
+    "main.js": "/maski/static/js/main.67eccaff.chunk.js",
+    "main.js.map": "/maski/static/js/main.67eccaff.chunk.js.map",
     "runtime-main.js": "/maski/static/js/runtime-main.9f23d203.js",
     "runtime-main.js.map": "/maski/static/js/runtime-main.9f23d203.js.map",
     "static/js/2.2ba44c26.chunk.js": "/maski/static/js/2.2ba44c26.chunk.js",
     "static/js/2.2ba44c26.chunk.js.map": "/maski/static/js/2.2ba44c26.chunk.js.map",
     "index.html": "/maski/index.html",
-    "precache-manifest.101292d2e1a28affa9b3df6ac12ef9b2.js": "/maski/precache-manifest.101292d2e1a28affa9b3df6ac12ef9b2.js",
+    "precache-manifest.5833282034f82ca4b0fe99790ab48566.js": "/maski/precache-manifest.5833282034f82ca4b0fe99790ab48566.js",
     "service-worker.js": "/maski/service-worker.js",
     "static/css/main.ba1db0a3.chunk.css.map": "/maski/static/css/main.ba1db0a3.chunk.css.map",
     "static/js/2.2ba44c26.chunk.js.LICENSE.txt": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9f23d203.js",
     "static/js/2.2ba44c26.chunk.js",
     "static/css/main.ba1db0a3.chunk.css",
-    "static/js/main.a2c3bc03.chunk.js"
+    "static/js/main.67eccaff.chunk.js"
   ]
 }
