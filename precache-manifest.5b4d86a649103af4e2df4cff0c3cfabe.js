@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17d99ef198e4950ee6acfdca55813858",
+    "revision": "9f14ff715ab6c369bc45e389c4d53037",
     "url": "/maski/index.html"
   },
   {
-    "revision": "3339c584dfea0cd78235",
-    "url": "/maski/static/css/main.6859d559.chunk.css"
+    "revision": "5a3a93a3e68151c9941b",
+    "url": "/maski/static/css/main.bde7a109.chunk.css"
   },
   {
     "revision": "a58e7bde935cab7ea293",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3339c584dfea0cd78235",
+    "revision": "5a3a93a3e68151c9941b",
     "url": "/maski/static/js/main.1678599e.chunk.js"
   },
   {
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "69926620cef23e7bd1e0bf8a521d573e",
     "url": "/maski/static/media/olx3.69926620.jpg"
+  },
+  {
+    "revision": "e78b50cd7a6bb9c25359f060f6b18e9c",
+    "url": "/maski/static/media/olx4.e78b50cd.jpg"
   }
 ]);
