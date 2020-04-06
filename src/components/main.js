@@ -23,12 +23,12 @@ class Main extends Component {
                 <div className="service-one">
                 <p className="service-icon"><FontAwesomeIcon icon={faPhoneVolume} /></p>
                 <p className="service-title">Связь</p>
-                <p>Просто наберите нас по телефону. Мы находимся в г.Бровары </p>
+                <p>Просто наберите нас по телефону. Мы находимся в г.Бровары. Доставка "Новая почта", "Укрпочта" и можно самовывозом </p>
                 </div>
                 <div className="service-two">
                 <p className="service-icon"><FontAwesomeIcon icon={faShoppingBasket} /></p>
                 <p className="service-title">Заказ</p>
-                <p>Для заказа оговорите количество и оплатите 100% или 50%, а 50% наложкой. Сагласуйте доставку. Заброть можно самовывозом.</p>
+                <p>Для заказа оговорите количество и оплатите 100% или 50%, а 50% наложкой. Сагласуйте доставку. .</p>
 
                 </div>
                 <div className="service-three">
