@@ -91,6 +91,7 @@ class Form extends Component {
             {/*    <li><a href="viber://chat?number=+380932077941" target='_blank'> <i className="fa fa-whatsapp"></i> </a></li>*/}
             {/*</ul>*/}
             <ul className="containerFooter2">
+                <li className="mesBox"><div className="mesBoxImg"></div>Viber Telegram</li>
                 <li><a title="Позвонить" href="tel:+380932077941"><i className="fa fa-phone"></i><span>+38-(093)-207-79-41</span></a></li>
                 <li><a title="Позвонить" href="tel:+380966635434"><i className="fa fa-phone"></i><span>+38-(096)-663-54-34</span></a></li>
 

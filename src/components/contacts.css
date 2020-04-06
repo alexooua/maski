@@ -28,6 +28,18 @@
     /*background-color: #232323;*/
 }
 
+.mesBox {
+    font-size: 30px;
+}
+
+.mesBoxImg {
+    background: url("./../images/109617.svg") center;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    transform: rotate(90deg);
+}
+
 .containerFooter, .containerFooter2 {
     display: flex;
     list-style: none;
@@ -150,4 +162,9 @@
     }
 }
 
+@media (min-width:934px)and (max-width:1310px){
+    .mesBoxImg {
 
+        transform: rotate(0deg);
+    }
+}
