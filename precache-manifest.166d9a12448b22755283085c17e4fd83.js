@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f120856df3eef08e920da8e452aefaf2",
+    "revision": "0fb16cc235612a327043cd9aba7100a0",
     "url": "/maski/index.html"
   },
   {
-    "revision": "7b8654b21f2223db4a26",
+    "revision": "0e1f877b67432726cc6f",
     "url": "/maski/static/css/main.4b459c9b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b8654b21f2223db4a26",
-    "url": "/maski/static/js/main.6f6d7867.chunk.js"
+    "revision": "0e1f877b67432726cc6f",
+    "url": "/maski/static/js/main.1678599e.chunk.js"
   },
   {
     "revision": "769b8a3c410d0aeb717f",
