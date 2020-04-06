@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Nav from "./nav";
+
 
 class Header extends Component {
   render() {
     return (
 
       <header>
-      <Nav/>
+
         <div className="head">
             <h1>Мы шьём маски< br/> ✂✆☺☀☂✌♡</h1>
             <div>
