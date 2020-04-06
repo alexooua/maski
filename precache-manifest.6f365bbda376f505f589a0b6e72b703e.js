@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2e00a29e3e34f70e666e9370ba05a4f",
+    "revision": "8a00ccd52eaf038668e2248930419714",
     "url": "/maski/index.html"
   },
   {
-    "revision": "f949fd3aebe6e537cef3",
-    "url": "/maski/static/css/main.bde7a109.chunk.css"
+    "revision": "813711908abdd7e3c0c6",
+    "url": "/maski/static/css/main.6e90b0e1.chunk.css"
   },
   {
     "revision": "a58e7bde935cab7ea293",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maski/static/js/2.2ba44c26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f949fd3aebe6e537cef3",
-    "url": "/maski/static/js/main.077116d8.chunk.js"
+    "revision": "813711908abdd7e3c0c6",
+    "url": "/maski/static/js/main.a4d3660e.chunk.js"
   },
   {
     "revision": "769b8a3c410d0aeb717f",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b654ca3ff43518f2dca4ddce9fbcc69",
     "url": "/maski/static/media/1.5b654ca3.jpg"
+  },
+  {
+    "revision": "279196e37844ff702af163035a67c609",
+    "url": "/maski/static/media/109617.279196e3.svg"
   },
   {
     "revision": "38194885a1ddf7cba40c3f9c44520a32",
